@@ -1,0 +1,83 @@
+/* Index CSS in BaccaratMPLite */
+/* Julius Patta (c) 2013 */
+
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family:Papyrus;
+	line-height:24px;
+	font-size:16px;
+	margin:0;
+	padding:0;
+    background-color:#555555;
+    color:#e0e000;
+}
+
+footer {
+    text-align: center;
+}
+
+body a:link, a:active, a:visited {
+	text-decoration:none;
+	color:#ff0000;
+	font-size:18px;
+}
+
+body a:hover{
+	text-decoration:underline;
+}
+
+p {
+	margin: 20px;
+	padding: 0;
+}
+
+h3 {
+	color:#ffa015;
+}
+
+h2 {
+	color:#ffa015;
+}
+
+h1 {
+	color:#ffa015;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0;
+	margin-left: 0;
+}
+
+li {
+	/*background: url(bullet.gif) left center no-repeat;*/
+	padding-left: 7px;
+	margin-bottom: 5px;
+    color:#ffffff;
+}
+
+
+.page-wrapper {
+	margin: auto;
+	width:1024px;
+	position:relative;
+    background:url(launchScreen.png) center top no-repeat;
+}
+
+
+.intro {
+    margin:20px 100px 0px 100px;
+    padding-top:250px;
+    height:100%;
+}
+
+
+.appstore {
+    margin:0px 100px 0px 100px;
+	padding:20px 50px 200px 0px;
+	height:100%;
+}
